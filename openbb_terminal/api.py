@@ -2015,6 +2015,9 @@ forecast_extras = {
         "model": "openbb_terminal.forecast.tft_model.get_tft_data",
         "view": "openbb_terminal.forecast.tft_view.display_tft_forecast",
     },
+    "valuation.sector": {
+        
+    }
 }
 
 if forecasting:
